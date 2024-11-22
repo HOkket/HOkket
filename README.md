@@ -6,10 +6,10 @@
 
 <div>
 <a href="https://github.com/HOkket/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/Hokket">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
 </a>
 </div>
 
