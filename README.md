@@ -4,7 +4,7 @@
 - 📫 Contate-me: huh.mateus@proton.me
 - 😄 Pronomes: ele/dele
 
-<div>
+<div aling="center">
 <a href="https://github.com/HOkket">
   <img height="180em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
 </a>
