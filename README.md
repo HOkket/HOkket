@@ -4,12 +4,6 @@
 - 📫 Contate-me: huh.mateus@proton.me
 - 😄 Pronomes: ele/dele
 
-  <div>
-<a href="https://proton.me/">
-  <img align="center" alt="HOk-ProntonMail" height="20" width="80" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
-</div>
-
 <div>
 <a href="https://github.com/HOkket">
   <img height="160em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
