@@ -1,6 +1,6 @@
 ## Ola! Sou Mateus Ferreira. 👋🖖🖖
 
-- 🌱 Atualmente aprendendo Python 
+- 🌱 Atualmente aprendendo Python e praticando BASH 
 - 📫 Contate-me: huh.mateus@proton.me
 - 😄 Pronomes: ele/dele
 
