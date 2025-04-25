@@ -18,7 +18,6 @@
   <img alt="Hok-Bash" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
   <img alt="HOk-Arch" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img alt="HOk-Linux" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="50">
 </div>
 <div aling="center">
   <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
