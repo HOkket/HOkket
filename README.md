@@ -31,7 +31,7 @@ com foco em software livre e soluções acessíveis.
 <div style="display: inline_block"><br>
   <img alt="HOk-Python" aling="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="HOk-SQL" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="Hok-Bash" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img alt="Hok-Bash" aling="center" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficon-library.com%2Fimages%2Fbash-icon%2Fbash-icon-5.jpg&f=1&nofb=1&ipt=750e742e16c73a219b8b6712cadcaca57afae7d41c6b2c8a1a04b7f0ac770714" />
   <img alt="HOk-Arch" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img alt="HOk-Linux" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="HOk-Linux" aling="center" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_shield_antivirus_protect_lock_locked-512.png"
