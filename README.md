@@ -29,12 +29,12 @@ com foco em software livre e soluções acessíveis.
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-  <img alt="HOk-Python" aling="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="HOk-SQL" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="Hok-Bash" aling="center" height="30" width="40" src="https://img.icons8.com/?size=48&id=TMZAZMLFozcL&format=png" />
-  <img alt="HOk-Arch" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img alt="HOk-Linux" aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="HOk-Ciber" aling="center" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_shield_antivirus_protect_lock_locked-512.png"
+  <img alt="HOk-Python" aling="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="HOk-SQL" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://img.icons8.com/?size=48&id=TMZAZMLFozcL&format=png" />
+  <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_shield_antivirus_protect_lock_locked-512.png"
 </div>
 
 <div aling="center">
