@@ -41,6 +41,9 @@ com foco em software livre e soluções acessíveis.
   <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
 </div>
 
+---
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake.svg">
