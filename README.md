@@ -14,19 +14,6 @@ com foco em software livre e soluções acessíveis.
 
 ---
 
-
-
-<div>
-  <a href="https://github.com/HOkket">
-  <img height="160em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
-  </a>
-
-
-  <a href="https://github.com/Hokket">
-  <img height="160em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
-  </a>
-</div>
-
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img alt="HOk-Python" aling="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -40,6 +27,20 @@ com foco em software livre e soluções acessíveis.
 <div aling="center">
   <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
 </div>
+
+---
+ 
+<div>
+  <a href="https://github.com/HOkket">
+  <img height="160em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
+  </a>
+
+
+  <a href="https://github.com/Hokket">
+  <img height="160em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
+  </a>
+</div>
+
 
 ---
 
