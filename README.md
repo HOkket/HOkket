@@ -10,6 +10,7 @@ com foco em software livre e soluções acessíveis.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
+- 🧾 Linkedin: https://www.linkedin.com/in/huhmateus/
 
 ---
 
