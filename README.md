@@ -2,7 +2,7 @@
 
 ### **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
 
-👋 Olá! Sou Mateus Ferreira, profissional de Cybersecurity com formação 
+👋 Olá! Sou [Mateus Ferreira](https://www.linkedin.com/in/huhmateus/), profissional de Cybersecurity com formação 
 pela UNOPAR e especialização em andamento no curso de Segurança 
 Cibernética do Google. Aos 27 anos, tenho como missão combinar 
 conhecimento técnico e inovação para proteger ambientes digitais, 
