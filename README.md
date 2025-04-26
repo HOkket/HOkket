@@ -1,6 +1,6 @@
 ## 🧑‍💻 Mateus Ferreira 👋🖖🖖
 
-### **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
+### **`🔒 ANALISTA DE CIBERSEGURANÇA 🔐 `**
 
 👋 Olá! Sou [Mateus Ferreira](https://www.linkedin.com/in/huhmateus/), profissional de Cybersecurity com formação 
 pela UNOPAR e especialização em andamento no curso de Segurança 
@@ -10,6 +10,7 @@ com foco em software livre e soluções acessíveis.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
+- 🧰 Linkedin: https://www.linkedin.com/in/huhmateus/
 
 ---
 
