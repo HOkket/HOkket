@@ -59,12 +59,13 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
 
 - [Bash Script para Pós-Instalação no Arch Linux e Ubuntu](https://github.com/HOkket/Bash-script-de-pos-install)  
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+  ![CLI](https://img.shields.io/badge/-CLI-4EAA25?logo=console&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)  
   Um script eficiente e personalizável para automatizar a instalação de pacotes e ajustes de configuração após uma instalação limpa do sistema.  
   Ideal para usuários que buscam praticidade e otimização no processo de pós-instalação.  
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/HOkket/Bash-script-de-pos-install/demo.gif" alt="Demo do Script" width="600" />
+    <img src="" alt="Demo do Script" width="600" />
   </div>
 
 <br>
