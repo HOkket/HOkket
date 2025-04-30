@@ -21,7 +21,8 @@ com foco em software livre e soluções acessíveis.
   <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://img.icons8.com/?size=48&id=TMZAZMLFozcL&format=png" />
   <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://img.icons8.com/?size=80&id=58k50WHHvT0O&format=png"
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://img.icons8.com/?size=80&id=58k50WHHvT0O&format=png" />
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2%2FWindows-Logo-PNG-Images.png&f=1&nofb=1&ipt=daf3ddc0bf895f2d0dc8903204e689f53b37cb7200e0fa847219e4b351fdf2a8" />
 </div>
 
 ### ☝️ Objetivos
