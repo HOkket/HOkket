@@ -24,6 +24,10 @@ com foco em software livre e soluções acessíveis.
   <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://img.icons8.com/?size=80&id=58k50WHHvT0O&format=png"
 </div>
 
+ ### ☝️ Objetivo
+ 
+ Este perfil tem como objetivo compartilhar meus projetos pessoais e os conhecimentos adquiridos ao longo da minha jornada de estudos em tecnologia da informação e segurança cibernética, promovendo aprendizado contínuo e inovação na área.
+
 <div aling="center">
   <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
 </div>
