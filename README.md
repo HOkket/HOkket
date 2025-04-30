@@ -18,6 +18,9 @@
 - 📫 Contate-me: huh.mateus@proton.me
 - 🧾 Linkedin: [Meu Perfil](https://www.linkedin.com/in/huhmateus/)
 
+![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=Hokket&theme=github)
+
+
 ---
 
 <div align="center">
