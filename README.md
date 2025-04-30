@@ -64,9 +64,6 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)  
   Um script eficiente e personalizável para automatizar a instalação de pacotes e ajustes de configuração após uma instalação limpa do sistema.  
   Ideal para usuários que buscam praticidade e otimização no processo de pós-instalação.  
-  <div align="center">
-    <img src="" alt="Demo do Script" width="600" />
-  </div>
 
 <br>
 
