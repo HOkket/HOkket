@@ -27,6 +27,7 @@
   <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
   <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img alt="HOk-Security" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg" />
 </div>
 
 <div align="center">
