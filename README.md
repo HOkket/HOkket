@@ -21,13 +21,12 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img alt="HOk-Python" aling="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="HOk-SQL" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://img.icons8.com/?size=48&id=TMZAZMLFozcL&format=png" />
-  <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://img.icons8.com/?size=80&id=58k50WHHvT0O&format=png" />
-  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2%2FWindows-Logo-PNG-Images.png&f=1&nofb=1&ipt=daf3ddc0bf895f2d0dc8903204e689f53b37cb7200e0fa847219e4b351fdf2a8" />
+  <img alt="HOk-Python" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="HOk-SQL" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+  <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
 <div align="center">
@@ -39,14 +38,13 @@
 Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promover aprendizado contínuo, inovação e soluções práticas que impactem positivamente o mundo digital. Vamos construir juntos um futuro mais seguro e acessível!
 
 <div aling="center">
-  <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
+  <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <div>
   <a href="https://github.com/HOkket">
   <img height="160em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
   </a>
-
 
   <a href="https://github.com/Hokket">
   <img height="160em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
@@ -64,7 +62,10 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)  
   Um script eficiente e personalizável para automatizar a instalação de pacotes e ajustes de configuração após uma instalação limpa do sistema.  
-  Ideal para usuários que buscam praticidade e otimização no processo de pós-instalação.
+  Ideal para usuários que buscam praticidade e otimização no processo de pós-instalação.  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/HOkket/Bash-script-de-pos-install/demo.gif" alt="Demo do Script" width="600" />
+  </div>
 
 <br>
 
@@ -73,7 +74,10 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Nautilus](https://img.shields.io/badge/-Nautilus-4EAA25?logo=gnome&logoColor=white)
   ![GNOME](https://img.shields.io/badge/-GNOME-4EAA25?logo=gnome&logoColor=white)  
   Uma coleção de scripts em Bash projetados para expandir as funcionalidades do gerenciador de arquivos GNOME (Nautilus).  
-  Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.
+  Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/HOkket/Scripts-Nautilus/demo.gif" alt="Demo do Nautilus Scripts" width="600" />
+  </div>
 
 <br>
 
@@ -82,6 +86,9 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![CLI](https://img.shields.io/badge/-CLI-4EAA25?logo=console&logoColor=white)
   ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?logo=gnome-terminal&logoColor=white)  
   Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/HOkket/GeradorPyPass/demo.gif" alt="Demo do Gerador de Senhas" width="600" />
+  </div>
 
 ---
 
@@ -110,6 +117,7 @@ Esta animação representa as contribuições feitas ao longo do tempo. Ela é g
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=HOkket&color=green&style=flat-square)  
 **Entre em contato para colaborar e construir soluções incríveis juntos!**
 
 </div>
