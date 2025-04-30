@@ -4,9 +4,8 @@
 
 # **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
 
-</div>
-
-<div align="center">
+![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
+![Bash](https://img.shields.io/badge/Bash-70%25-yellowgreen)
 
 ![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
 
@@ -18,8 +17,6 @@
 - 📫 Contate-me: huh.mateus@proton.me
 - 🧾 Linkedin: [Meu Perfil](https://www.linkedin.com/in/huhmateus/)
 
-![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=Hokket&theme=github)
-
 
 ---
 
@@ -28,6 +25,7 @@
 ### ` 🤖 Linguagens e Tecnologias`
 
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img alt="HOk-Python" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
