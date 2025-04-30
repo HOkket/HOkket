@@ -117,7 +117,6 @@ Esta animação representa as contribuições feitas ao longo do tempo. Ela é g
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=HOkket&color=green&style=flat-square)  
 **Entre em contato para colaborar e construir soluções incríveis juntos!**
 
 </div>
