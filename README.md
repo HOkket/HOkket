@@ -6,6 +6,9 @@
 
 ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
 ![Bash](https://img.shields.io/badge/Bash-70%25-yellowgreen)
+![Linux](https://img.shields.io/badge/Linux-90%25-blue)
+![Windows](https://img.shields.io/badge/Windows-90%25-lightblue)
+![SQL](https://img.shields.io/badge/SQL-60%25-orange)
 
 ![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
 
