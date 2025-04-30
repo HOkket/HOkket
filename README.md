@@ -63,21 +63,27 @@ Este perfil tem como objetivo compartilhar meus [**projetos**](https://github.co
 </div>
 
 - [Bash Script para Pós-Instalação no Arch Linux e Ubuntu](https://github.com/HOkket/Bash-script-de-pos-install)  
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) 
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)  
   Um script eficiente e personalizável para automatizar a instalação de pacotes e ajustes de configuração após uma instalação limpa do sistema.  
   Ideal para usuários que buscam praticidade e otimização no processo de pós-instalação.
 
 <br>
 
 - [Funções para o Nautilus](https://github.com/HOkket/Scripts-Nautilus)  
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+  ![Nautilus](https://img.shields.io/badge/-Nautilus-4EAA25?logo=gnome&logoColor=white)
+  ![GNOME](https://img.shields.io/badge/-GNOME-4EAA25?logo=gnome&logoColor=white)  
   Uma coleção de scripts em Bash projetados para expandir as funcionalidades do gerenciador de arquivos GNOME (Nautilus).  
   Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.
 
 <br>
 
 - [Gerador de Senhas em Python](https://github.com/HOkket/GeradorPyPass)  
-  ![Python](https://img.shields.io/badge/-Python-blue)  
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ![CLI](https://img.shields.io/badge/-CLI-4EAA25?logo=console&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?logo=gnome-terminal&logoColor=white)  
   Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.  
 ---
 
