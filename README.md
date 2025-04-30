@@ -87,7 +87,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?logo=gnome-terminal&logoColor=white)  
   Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.  
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/HOkket/GeradorPyPass/demo.gif" alt="Demo do Gerador de Senhas" width="600" />
+    <img src="" alt="Demo do Gerador de Senhas" width="600" />
   </div>
 
 ---
