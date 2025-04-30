@@ -6,6 +6,8 @@
 
 </div>
 
+![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
+
 👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
@@ -19,6 +21,9 @@
 ### ` 🤖 Linguagens e Tecnologias`
 
 </div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" style="animation: bounce 2s infinite;" />
+
 
 <div align="center" style="display: inline_block"><br>
   <img alt="HOk-Python" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
