@@ -6,17 +6,14 @@
 
 </div>
 
-👋 Olá! Sou Mateus Ferreira, profissional de **Cybersecurity** com formação 
-pela UNOPAR, em andamento no curso de *Segurança 
-Cibernética do Google*. Aos 27 anos, tenho como missão combinar 
-conhecimento técnico e inovação para proteger ambientes digitais, 
-com foco em software livre e soluções acessíveis.
+👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
-- 🧾 Linkedin: https://www.linkedin.com/in/huhmateus/
+- 🧾 Linkedin: [Meu Perfil](https://www.linkedin.com/in/huhmateus/)
 
 ---
+
 <div align="center">
 
 ### ` 🤖 Linguagens e Tecnologias`
@@ -35,11 +32,11 @@ com foco em software livre e soluções acessíveis.
 
 <div align="center">
 
-### ☝️ Objetivos
+#### ☝️ Objetivos
 
 </div>
 
-Este perfil tem como objetivo compartilhar meus [**projetos**](https://github.com/HOkket?tab=repositories) pessoais e os conhecimentos adquiridos ao longo da minha jornada de estudos em tecnologia da informação e segurança cibernética, promovendo aprendizado contínuo e inovação na área.
+Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promover aprendizado contínuo, inovação e soluções práticas que impactem positivamente o mundo digital. Vamos construir juntos um futuro mais seguro e acessível!
 
 <div aling="center">
   <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" src="https://github.com/user-attachments/assets/262dd99a-085f-42a9-9069-f57a816d783e" />
@@ -85,6 +82,7 @@ Este perfil tem como objetivo compartilhar meus [**projetos**](https://github.co
   ![CLI](https://img.shields.io/badge/-CLI-4EAA25?logo=console&logoColor=white)
   ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?logo=gnome-terminal&logoColor=white)  
   Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.  
+
 ---
 
 <div align="center">
@@ -107,3 +105,11 @@ Esta animação representa as contribuições feitas ao longo do tempo. Ela é g
 </div>
 
 - [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
+
+---
+
+<div align="center">
+
+**Entre em contato para colaborar e construir soluções incríveis juntos!**
+
+</div>
