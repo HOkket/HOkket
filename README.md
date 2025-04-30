@@ -77,7 +77,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   Uma coleção de scripts em Bash projetados para expandir as funcionalidades do gerenciador de arquivos GNOME (Nautilus).  
   Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.  
   <div align="center">
-    <img src="[Demo](https://github.com/HOkket/HOkket/blob/main/Gifs/CriptografiaDemo.gif)" alt="Demo do Nautilus Scripts" width="600" />
+    <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/CriptografiaDemo.gif" alt="Demo do Nautilus Scripts" width="600" />
   </div>
 
 <br>
