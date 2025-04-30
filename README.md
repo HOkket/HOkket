@@ -84,7 +84,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   Uma coleção de scripts em Bash projetados para expandir as funcionalidades do gerenciador de arquivos GNOME (Nautilus).  
   Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.  
   <div align="center">
-    <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/CriptografiaDemo.gif" alt="Demo do Nautilus Scripts" width="600" />
+    <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/CriptografiaDemo.gif" alt="Demo do Nautilus Scripts" width="400" />
   </div>
 
 <br>
@@ -95,7 +95,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?logo=gnome-terminal&logoColor=white)  
   Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.  
   <div align="center">
-    <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/PythonSenhas.gif" alt="Demo do Gerador de Senhas" width="600" />
+    <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/PythonSenhas.gif" alt="Demo do Gerador de Senhas" width="400" />
   </div>
 
 ---
