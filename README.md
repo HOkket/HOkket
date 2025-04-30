@@ -23,7 +23,7 @@ com foco em software livre e soluções acessíveis.
   <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://img.icons8.com/?size=80&id=58k50WHHvT0O&format=png" />
   <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2%2FWindows-Logo-PNG-Images.png&f=1&nofb=1&ipt=daf3ddc0bf895f2d0dc8903204e689f53b37cb7200e0fa847219e4b351fdf2a8" />
-</div>
+</div>- 
 
 ### ☝️ Objetivos
 
@@ -47,13 +47,29 @@ Este perfil tem como objetivo compartilhar meus [**projetos**](https://github.co
 ## ☕ [**Projetos**](https://github.com/HOkket?tab=repositories)
 
 - [Bash Script para Arch Linux e Ubuntu](https://github.com/HOkket/Bash-script-de-pos-install) - Um script prático que facilita a instalação de pacotes e a configuração do sistema após uma instalação limpa. É simples, altamente configurável e atende a diversas necessidades de usuários.
+
 - [Funções para o Nautilus](https://github.com/HOkket/Scripts-Nautilus) - Uma série de scripts em Bash que ampliam as funcionalidades do gerenciador de arquivos GNOME. Incluem recursos como conversão de arquivos para diversos formatos e criptografia simétrica, otimizando a experiência do usuário.
-- [Gerador de Senhas em Python](https://github.com/HOkket/GeradorPyPass) - Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras. Ideal para proteger suas contas e dados sensíveis com facilidade e eficiência.
+
+- [Gerador de Senhas em Python](https://github.com/HOkket/GeradorPyPass)
+
+  ![Python](https://img.shields.io/badge/-Python-blue)
+
+  Um programa de linha de comando (CLI) desenvolvido em Python, projetado para criar senhas fortes e seguras.
+  ![Screenshot](https://via.placeholder.com/300x150)
+
+
 ---
 
+
+### 🐍 Snake Animation
+
+A animação da cobra no meu perfil do GitHub representa as contribuições feitas ao longo do tempo. Ela é gerada automaticamente e mostra, de forma visual e interativa, como minhas atividades no GitHub (commits, pull requests, etc.) se acumulam no gráfico de contribuições.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 📜 Certificações
+- [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
