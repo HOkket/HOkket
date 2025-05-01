@@ -115,12 +115,6 @@ Esta animação representa as contribuições feitas ao longo do tempo. Ela é g
 
 <div align="center">
 
-## 📜 Certificações
-
-</div>
-
-- [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
-
 ---
 
 <div align="center">
