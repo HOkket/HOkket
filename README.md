@@ -1,6 +1,6 @@
 ## 🧑‍💻 Mateus Ferreira 👋🖖🖖
 
-<div alinhar="centro">
+<div align="center">
 
 # **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
 
@@ -14,41 +14,41 @@
 
 </div>
 
-👋 Olá! Sou Mateus Ferreira, um apaixonado por **Segurança cibernética**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessadas e baseadas em software livre.
+👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
 
-- 🌱 Atualmente cursando [Python 3](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=MT250929G4)
+- 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
 - 🧾 Linkedin: [Meu Perfil](https://www.linkedin.com/in/huhmateus/)
 
 
 ---
 
-<dividir alinhar="centro">
+<div align="center">
 
 ### ` 🤖 Linguagens e Tecnologias`
 
-</dividir>
+</div>
 
 
-<dividir alinhar="centro" estilo="exibir: bloco_inline"><br>
-  <imagem alt="HOk-Python" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <imagem alt="HOk-SQL" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <imagem alt="Hok-Bash" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <imagem alt="Arco HOk" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
-  <imagem alt="HOk-Linux" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <imagem alt="HOk-Ciber" Aling="centro" alta="40" largura="40" fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</dividir>
+<div align="center" style="display: inline_block"><br>
+  <img alt="HOk-Python" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="HOk-SQL" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+  <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</div>
 
-<dividir alinhar="centro">
+<div align="center">
 
 ## ☝️ Objetivos
 
-</dividir>
+</div>
 
-Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promove aprendiz contínuo, inovação e soluções práticas que impactam positivamente o mundo digital. Vamos construir juntos um futuro mais seguro e acessível!
+Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promover aprendizado contínuo, inovação e soluções práticas que impactem positivamente o mundo digital. Vamos construir juntos um futuro mais seguro e acessível!
 
-<dividir Aling="centro">
-  <imagem Aling="certo" alt="Hok-GIF2" fonte="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<div aling="center">
+  <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <div>
