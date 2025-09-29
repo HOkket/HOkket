@@ -1,6 +1,6 @@
 ## 🧑‍💻 Mateus Ferreira 👋🖖🖖
 
-<dividir alinhar="centro">
+<div alinhar="centro">
 
 # **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
 
@@ -12,7 +12,7 @@
 
 ![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
 
-</dividir>
+</div>
 
 👋 Olá! Sou Mateus Ferreira, um apaixonado por **Segurança cibernética**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessadas e baseadas em software livre.
 
