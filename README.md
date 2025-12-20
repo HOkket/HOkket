@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **`🔒 ANALISTA DE CIBERSEGURANÇA 🔒 `**
+# **`🔒 ESTUDANTE DE CIBERSEGURANÇA 🔒 `**
 
 ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
 ![Bash](https://img.shields.io/badge/Bash-70%25-yellowgreen)
