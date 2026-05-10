@@ -4,17 +4,11 @@
 
 # **`🔒 ESTUDANTE DE CIBERSEGURANÇA 🔒`**
 
-![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
-![Bash](https://img.shields.io/badge/Bash-70%25-yellowgreen)
-![Linux](https://img.shields.io/badge/Linux-90%25-blue)
-![Windows](https://img.shields.io/badge/Windows-90%25-lightblue)
-![SQL](https://img.shields.io/badge/SQL-60%25-orange)
-
 ![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
 
 </div>
 
-👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
+👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 28 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
@@ -26,12 +20,11 @@
 
 ### `🤖 Linguagens e Tecnologias`
 
-<img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-<img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
-<img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
-<img alt="Arch Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />&nbsp;
-<img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
-<img alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+![Python](https://img.shields.io/badge/Python-50%25-brightgreen)
+![Bash](https://img.shields.io/badge/Bash-60%25-yellowgreen)
+![Linux](https://img.shields.io/badge/Linux-60%25-blue)
+![Windows](https://img.shields.io/badge/Windows-80%25-lightblue)
+![SQL](https://img.shields.io/badge/SQL-60%25-orange)
 
 </div>
 
