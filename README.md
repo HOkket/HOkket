@@ -26,12 +26,12 @@
 
 ### `🤖 Linguagens e Tecnologias`
 
-  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="Arch Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
-  <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+<img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+<img alt="Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
+<img alt="Arch Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />&nbsp;
+<img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
+<img alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 </div>
 
@@ -47,15 +47,6 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
 
 <div align="center">
   <img alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/HOkket">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/HOkket">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
-  </a>
 </div>
 
 ---
