@@ -10,11 +10,11 @@
 ![Windows](https://img.shields.io/badge/Windows-90%25-lightblue)
 ![SQL](https://img.shields.io/badge/SQL-60%25-orange)
 
-![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%[...]
+![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Cybersecurity+%7C+DevOps+%7C+Bash)
 
 </div>
 
-👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento t[...]
+👋 Olá! Sou Mateus Ferreira, um apaixonado por **Cybersecurity**, formado pela UNOPAR e atualmente cursando *Segurança Cibernética do Google*. Aos 27 anos, meu objetivo é unir conhecimento técnico e criatividade para proteger ambientes digitais, promovendo soluções acessíveis e baseadas em software livre.
 
 - 🌱 Atualmente cursando [Segurança Cibernética do Google](https://imp.i384100.net/jroYYZ)
 - 📫 Contate-me: huh.mateus@proton.me
@@ -30,13 +30,13 @@
 </div>
 
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img alt="HOk-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="HOk-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Hok-Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="HOk-Arch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
-  <img alt="HOk-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="HOk-Ciber" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<div align="center" style="display: inline_block"><br>
+  <img alt="HOk-Python" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="HOk-SQL" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Hok-Bash" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="HOk-Arch" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
+  <img alt="HOk-Linux" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HOk-Ciber" aling="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
 <div align="center">
@@ -45,19 +45,19 @@
 
 </div>
 
-Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promover aprendiza[...]
+Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=repositories) que refletem minha jornada em tecnologia da informação e segurança cibernética. Busco promover aprendizado contínuo, inovação e soluções práticas que impactem positivamente o mundo digital. Vamos construir juntos um futuro mais seguro e acessível!
 
-<div align="center">
-  <img align="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<div aling="center">
+  <img aling="right" alt="Hok-GIF2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <div>
   <a href="https://github.com/HOkket">
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
+  <img height="160em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Hokket&theme=merko&locale=pt-br&rank_icon=github&include_all_commits=true" />
   </a>
 
   <a href="https://github.com/Hokket">
-  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
+  <img height="160em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hokket&layout=compact&langs_count=8&card_width=180&theme=merko&locale=pt-br" />
   </a>
 </div>
 
@@ -82,7 +82,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
   ![Nautilus](https://img.shields.io/badge/-Nautilus-4EAA25?logo=gnome&logoColor=white)
   ![GNOME](https://img.shields.io/badge/-GNOME-4EAA25?logo=gnome&logoColor=white)  
   Uma coleção de scripts em Bash projetados para expandir as funcionalidades do gerenciador de arquivos GNOME (Nautilus).  
-  Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e práti[...]
+  Esses scripts incluem ferramentas para conversão de arquivos em diversos formatos, criptografia simétrica e outras funcionalidades que tornam a experiência do usuário mais eficiente e prática.  
   <div align="center">
     <img src="https://github.com/HOkket/HOkket/blob/main/Gifs/CriptografiaDemo.gif" alt="Demo do Nautilus Scripts" width="400" />
   </div>
@@ -105,8 +105,7 @@ Meu objetivo é compartilhar [**projetos**](https://github.com/HOkket?tab=reposi
 ### 🐍 Snake Animation
 
 </div>
-
-Esta animação representa as contribuições feitas ao longo do tempo. Ela é gerada automaticamente e mostra, de forma visual e interativa, como minhas atividades no GitHub (commits, pull reque[...]
+Esta animação representa as contribuições feitas ao longo do tempo. Ela é gerada automaticamente e mostra, de forma visual e interativa, como minhas atividades no GitHub (commits, pull requests, etc.) se acumulam no gráfico de contribuições.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOkket/HOkket/output/github-contribution-grid-snake-dark.svg">
